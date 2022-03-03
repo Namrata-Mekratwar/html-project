@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>creating a Table</title>
+<style type="text/css">
+body{background-color:"pitch"}
+table,th,td{border:1px solid blue}
+th{color:blue}
+</style>
+</head>
+<body>
+<table>
+<caption style=color:red> Student Information</caption>
+<tr><th>S.No</th>
+<th>Name</th>
+<th>Grades
+</tr>
+<tr>
+<td>1</td>
+<td>Bindu</td>
+<td>A</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Yogesh</td>
+<td>A+</td>
+</tr>
+</body>
+</html>
